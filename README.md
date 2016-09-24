@@ -1,2 +1,3 @@
 # Hadoop-GIS
-solve problems about GIS on Hadoop
+some codes to solve problems about GIS on Hadoop 
+like map algebra(Allocation, Distance, Gradient, KernelDensity...), Urban Informatics... 
